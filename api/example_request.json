@@ -1,0 +1,59 @@
+{
+  "home_team_id": 9997,
+  "away_team_id": 8342,
+  "league_id": 1,
+  "home_last_matches": [
+    {
+      "goals_for": 1,
+      "goals_against": 1,
+      "was_home": true
+    },
+    {
+      "goals_for": 0,
+      "goals_against": 0,
+      "was_home": false
+    },
+    {
+      "goals_for": 1,
+      "goals_against": 0,
+      "was_home": true
+    },
+    {
+      "goals_for": 2,
+      "goals_against": 2,
+      "was_home": true
+    },
+    {
+      "goals_for": 1,
+      "goals_against": 3,
+      "was_home": false
+    }
+  ],
+  "away_last_matches": [
+    {
+      "goals_for": 1,
+      "goals_against": 1,
+      "was_home": true
+    },
+    {
+      "goals_for": 1,
+      "goals_against": 2,
+      "was_home": false
+    },
+    {
+      "goals_for": 3,
+      "goals_against": 0,
+      "was_home": true
+    },
+    {
+      "goals_for": 1,
+      "goals_against": 0,
+      "was_home": true
+    },
+    {
+      "goals_for": 3,
+      "goals_against": 1,
+      "was_home": false
+    }
+  ]
+}

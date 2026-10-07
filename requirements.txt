@@ -1,0 +1,12 @@
+# Tested with Python 3.12
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+tensorflow==2.19.0
+matplotlib==3.9.2
+kagglehub==0.4.1
+fastapi==0.129.0
+uvicorn==0.41.0
+pydantic==2.8.2
+jupyter
+pytest
